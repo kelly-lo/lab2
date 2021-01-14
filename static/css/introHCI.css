@@ -23,7 +23,8 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("https://rossottiranch.com/wp-content/uploads/2017/05/goat-banner.jpg");
+     /* background: url("http://lorempixel.com/1140/283"); */
      opacity: 0.2;
      top: 0;
      left: 0;
